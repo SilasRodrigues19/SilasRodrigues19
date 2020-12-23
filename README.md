@@ -19,14 +19,15 @@
 </p>
 
 <p align="left">
-  <a href="mailto:silasrodrigues.ti@hotmail.com"><i class="fas fa-envelope" alt="Gmail"></i></a>
+  <a href="mailto:silasrodrigues.ti@hotmail.com" alt="Gmail" target="_blank"></a>
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:silasrodrigues.ti@hotmail.com" />
   </a>
 
-  <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank"><i class="fab fa-whatsapp" alt="WhatsApp"></i>
+  <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/>
   </a>
 
-  <a href="https://www.instagram.com/silasrodrigues99/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/></a>
+  <a href="https://www.instagram.com/silasrodrigues99/" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/>
+  </a>
 </p>  
