@@ -13,7 +13,11 @@
 <p align="left">
   💼 Ferramentas: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
 </p>
-M
+
+<p align="left">
+  💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⤵️
+</p>
+
 <hr>
 
 <p align="left"> 
@@ -31,7 +35,7 @@ M
 </p>
 
 <p align="left">
-  💌 Segue abaixo maneiras de me encontrar para um primeiro contato / Below are ways to find me for a first contact: ⤵️
+  💌 Below are ways to find me for a first contact: ⤵️
 </p>
 
 <p align="left">
