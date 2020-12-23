@@ -3,7 +3,7 @@
 <p align="left"> 
   Olá, meu nome é Silas Rodrigues.<br>
   Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
-  Estou a procura de um estágio para terminar minha graduação e começar uma carreira de <strong>Desenvolvedor</strong>.<br>
+  Estou a procura de um estágio para terminar minha graduação e começar uma carreira de <strong>Desenvolvedor,</strong> com foco na Web.<br>
 </p>
 
 <p align="left">
@@ -13,16 +13,28 @@
 <p align="left">
   💼 Ferramentas: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
 </p>
+M
+<hr>
 
-<p align="left">
-  💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⤵️
+<p align="left"> 
+  Hi, my name's Silas Rodrigues.<br>
+  I am a student of <strong>Systems Analysis and Development</strong>.<br>
+  I'm looking for an internship to finish my degree and start a <strong>Developer</strong> career, Web-focused.<br>
 </p>
 
 <p align="left">
-  <a href="#" alt="Hotmail" target="_blank"></a>
-    <img src="https://img.shields.io/badge/-Hotmail-FF0000?style=flat-square&labelColor=FF0000&logo=hotmail&logoColor=white&link=mailto:silasrodrigues.ti@hotmail.com" />
-  </a>
+  🦄 Skills: <strong>HTML5, CSS3 (Bootstrap, Materialize) JavaScript (ES6, jQuery) PHP5.</strong>
+</p>
 
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Segue abaixo maneiras de me encontrar para um primeiro contato / Below are ways to find me for a first contact: ⤵️
+</p>
+
+<p align="left">
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/>
   </a>
