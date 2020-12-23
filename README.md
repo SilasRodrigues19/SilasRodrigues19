@@ -19,8 +19,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:silasrodrigues.fatec@gmail.com" alt="Gmail" target="_blank"></a>
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
+  <a href="#" alt="Gmail" target="_blank"></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:silasrodrigues.fatec@gmail.com" />
   </a>
 
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" alt="WhatsApp" target="_blank">
