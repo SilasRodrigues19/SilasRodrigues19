@@ -7,15 +7,15 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3 (Bootstrap, Materialize) JavaScript (ES6, jQuery) PHP5.</strong>
+  💻 Habilidades: <strong>HTML5, CSS3 (Bootstrap, Materialize) JavaScript (ES6, jQuery) PHP5.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
+  🧰 Ferramentas: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⤵️
+  💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
 <hr>
@@ -27,15 +27,15 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3 (Bootstrap, Materialize) JavaScript (ES6, jQuery) PHP5.</strong>
+  💻 Skills: <strong>HTML5, CSS3 (Bootstrap, Materialize) JavaScript (ES6, jQuery) PHP5.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
+  🧰 Tools: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Below are ways to find me for a first contact: ⤵️
+  💌 Below are ways to find me for a first contact: ⬇
 </p>
 
 <p align="left">
