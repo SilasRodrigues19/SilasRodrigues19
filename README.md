@@ -19,6 +19,8 @@
   💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
+<hr>
+
 <p align="left"> 
   Hi, my name's Silas Rodrigues.<br>
   I am a student of <strong>Systems Analysis and Development</strong>.<br>
@@ -32,8 +34,6 @@
 <p align="left">
   🧰 Tools: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
 </p>
-
-<hr>
 
 <p align="left">
   💌 Below are ways to find me for a first contact: ⬇
