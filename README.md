@@ -19,8 +19,6 @@
   💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
-<hr>
-
 <p align="left"> 
   Hi, my name's Silas Rodrigues.<br>
   I am a student of <strong>Systems Analysis and Development</strong>.<br>
@@ -50,3 +48,4 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/>
   </a>
 </p>  
+<hr>
