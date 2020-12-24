@@ -1,4 +1,5 @@
-<img src="hackermind.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<hr>
+<img src="hackermind.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Imagem">
 
 <p align="left"> 
   Olá, meu nome é Silas Rodrigues.<br>
@@ -33,6 +34,8 @@
 <p align="left">
   🧰 Tools: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
 </p>
+
+<hr>
 
 <p align="left">
   💌 Below are ways to find me for a first contact: ⬇
