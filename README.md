@@ -41,19 +41,19 @@
 
 <p align="left">
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/ width="100px">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/ width="100px" height="100px">
   </a>
 
   <a href="https://www.instagram.com/silasrodrigues99/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/ width="100px">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/ width="100px" height="100px">
   </a>
   
   <a href="https://twitter.com/jinuye1/" alt="Twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/jinuye1/"/ width="100px">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/jinuye1/"/ width="100px" height="100px">
   </a>
   
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&labelColor=c71610&logo=gmail&logoColor=white&link=mailto:silasrodrigues.fatec@gmail.com/"/ width="100px">
+    <img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&labelColor=c71610&logo=gmail&logoColor=white&link=mailto:silasrodrigues.fatec@gmail.com/"/ width="100px" height="100px">
   </a>
 </p>  
 <hr>
