@@ -45,7 +45,7 @@
   </a>
 
   <a href="https://www.instagram.com/silasrodrigues99/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/ width="150px" height="35px" margin="15px">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/ width="150px" height="35px">
   </a>
   
   <a href="https://twitter.com/jinuye1/" alt="Twitter" target="_blank">
