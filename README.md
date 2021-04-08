@@ -39,13 +39,13 @@
   💌 Below are ways to find me for a first contact: ⬇
 </p>
 
-<p align="left" margin="15px">
+<p align="left">
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/ width="150px" height="35px">
   </a>
 
   <a href="https://www.instagram.com/silasrodrigues99/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/ width="150px" height="35px">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/ width="150px" height="35px" margin="15px">
   </a>
   
   <a href="https://twitter.com/jinuye1/" alt="Twitter" target="_blank">
