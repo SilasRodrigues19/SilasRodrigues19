@@ -39,7 +39,7 @@
   💌 Below are ways to find me for a first contact: ⬇
 </p>
 
-<p align="left">
+<p align="left" margin="15px">
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/ width="150px" height="35px">
   </a>
