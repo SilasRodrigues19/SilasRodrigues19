@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/ width="150px" height="35px">
   </a>
   
-  <a href="https://twitter.com/jinuye1/" alt="Twitter" target="_blank" margin="15px">
+  <a href="https://twitter.com/jinuye1/" alt="Twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/jinuye1/"/ width="150px" height="35px">
   </a>
   
