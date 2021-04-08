@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/jinuye1/"/>
   </a>
   
-  <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato&GitHub" alt="Gmail" target="_blank">
+  <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c71610?style=flat-square&labelColor=c71610&logo=gmail&logoColor=white&link=mailto:silasrodrigues.fatec@gmail.com/"/>
   </a>
 </p>  
