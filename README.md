@@ -57,7 +57,7 @@
   </a>
   
   <a href="https://silasrodrigues19.github.io" alt="Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Porfolio-c71610?style=for-the-badge&labelColor=c71610&logo=CoffeeScript&logoColor=white&link=https://silasrodrigues19.github.io/"/ width="150px" height="35px">
+    <img src="https://img.shields.io/badge/-Porfolio-c71610?style=for-the-badge&labelColor=dc143c &logo=CoffeeScript&logoColor=white&link=https://silasrodrigues19.github.io/"/ width="150px" height="35px">
   </a>
 </p>  
 <hr>
