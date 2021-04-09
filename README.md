@@ -55,5 +55,9 @@
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&labelColor=c71610&logo=gmail&logoColor=white&link=mailto:silasrodrigues.fatec@gmail.com/"/ width="150px" height="35px">
   </a>
+  
+  <a href="https://silasrodrigues19.github.io" alt="Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-CoffeeScript-c71610?style=Read%20the%20Docs&labelColor=c71610&logo=CoffeeScript&logoColor=white&link=https://silasrodrigues19.github.io/"/ width="150px" height="35px">
+  </a>
 </p>  
 <hr>
