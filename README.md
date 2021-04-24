@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  💻 Habilidades: <strong>HTML5, CSS3 (Bootstrap, Materialize) JavaScript (ES6, jQuery) PHP5.</strong>
+  💻 Habilidades: <strong>HTML5, CSS3 (Bootstrap, Materialize, SASS, Bulma) JavaScript (ES6, jQuery) PHP5.</strong>
 </p>
 
 <p align="left">
-  🧰 Ferramentas: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
+  🧰 Ferramentas: <strong>Visual Studio Code, Figma, Trello, MySQL Git e GitHub.</strong>
 </p>
 
 <p align="left">
@@ -28,11 +28,11 @@
 </p>
 
 <p align="left">
-  💻 Skills: <strong>HTML5, CSS3 (Bootstrap, Materialize) JavaScript (ES6, jQuery) PHP5.</strong>
+  💻 Skills: <strong>HTML5, CSS3 (Bootstrap, Materialize, SASS, Bulma) JavaScript (ES6, jQuery) PHP5.</strong>
 </p>
 
 <p align="left">
-  🧰 Tools: <strong>Visual Studio Code, Figma, Trello, Git e GitHub.</strong>
+  🧰 Tools: <strong>Visual Studio Code, Figma, Trello, MySQL Git e GitHub.</strong>
 </p>
 
 <p align="left">
