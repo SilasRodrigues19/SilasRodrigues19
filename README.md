@@ -19,7 +19,8 @@
   💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/SilasRodrigues19/count.svg)
+![Visitor Count](https://badges.pufler.dev/visits/{SilasRodrigues19})
+
 
 <hr>
 
