@@ -19,7 +19,8 @@
   💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
-[![Visits Badge Counter](https://badges.pufler.dev/visits/SilasRodrigues19/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
 
 
 <hr>
