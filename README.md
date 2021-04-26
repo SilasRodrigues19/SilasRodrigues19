@@ -55,13 +55,10 @@
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&labelColor=c71610&logo=gmail&logoColor=white&link=mailto:silasrodrigues.fatec@gmail.com/"/ width="150px" height="35px" alt="Gmail">
   </a>
-  
-  <a href="https://silasrodrigues19.github.io/public/" target="_blank">
-    <img src="https://img.shields.io/badge/-Porfolio-dc143c?style=for-the-badge&labelColor=dc143c&logo=CoffeeScript&logoColor=white&link=https://silasrodrigues19.github.io/public/"/ width="150px" height="35px" alt="Portfolio">
-  </a>
 </p>  
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=silasrodrigues19&show_icons=true&locale=en&layout=compact" alt="silasrodrigues19"></p>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silasrodrigues19&label=Profile%20views&color=0e75b6&style=flat" alt="silasrodrigues19" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silasrodrigues19&show_icons=true&locale=en&layout=compact" alt="silasrodrigues19" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silasrodrigues19&show_icons=true&locale=en&layout=compact" alt="silasrodrigues19"></p>
