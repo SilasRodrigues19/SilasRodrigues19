@@ -56,7 +56,6 @@
     <img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&labelColor=c71610&logo=gmail&logoColor=white&link=mailto:silasrodrigues.fatec@gmail.com/"/ width="150px" height="35px" alt="Gmail">
   </a>
 </p>  
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=silasrodrigues19&show_icons=true&locale=en&layout=compact" alt="silasrodrigues19"></p>
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silasrodrigues19&show_icons=true&locale=en&layout=compact" alt="silasrodrigues19"></p>
