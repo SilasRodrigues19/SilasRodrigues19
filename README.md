@@ -19,11 +19,6 @@
   💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
-<a href="https://badges.pufler.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/df05f5d3ef17deb7092e349c33f5126576cf60a0d5ad8551452e38a3e90759b3/68747470733a2f2f6261646765732e7075666c65722e6465762f7669736974732f70756631373634302f70756631373634303f7374796c653d666c61742d73717561726526636f6c6f723d626c61636b266c6f676f3d676974687562" data-canonical-src="https://badges.pufler.dev/visits/SilasRodrigues19/SilasRodrigues19?style=flat-square&amp;color=black&amp;logo=github" style="max-width:100%;">
-  </a>
-
-
 <hr>
 
 <p align="left"> 
