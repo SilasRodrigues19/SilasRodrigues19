@@ -19,7 +19,7 @@
   💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SilasRodrigues19/count.svg)
 
 <hr>
 
