@@ -19,7 +19,7 @@
   💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
-![Visitor Count](https://badges.pufler.dev/visits/{SilasRodrigues19})
+![Visitor Count](https://badges.pufler.dev/visits/SilasRodrigues19)
 
 
 <hr>
