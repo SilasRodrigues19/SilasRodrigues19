@@ -19,6 +19,8 @@
   💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <hr>
 
 <p align="left"> 
