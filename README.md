@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 <hr>
 <img src="hackermind.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Hacker Imagem">
 
@@ -61,5 +62,26 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silasrodrigues19&show_icons=true&locale=en&layout=compact" alt="silasrodrigues19">
 </p>
+
+<button class="whatsapp">
+            <span>
+              <i class="fab fa-whatsapp"></i>
+            </span>
+            WhatsApp
+          </button>
+
+          <button class="instagram">
+            <span>
+              <i class="fab fa-instagram"></i>
+            </span>
+            Instagram
+          </button>
+
+          <button class="twitter">
+            <span>
+              <i class="fab fa-twitter"></i>
+            </span>
+            Twitter
+          </button>
 
 
