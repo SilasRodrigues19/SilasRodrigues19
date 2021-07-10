@@ -44,10 +44,6 @@
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/ width="150px" height="35px" alt="WhatsApp">
   </a>
 
-  <a href="https://www.instagram.com/silasrodrigues99/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/silasrodrigues99/"/ width="150px" height="35px" alt="Instagram">
-  </a>
-  
   <a href="https://twitter.com/jinuye1/" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/jinuye1/"/ width="150px" height="35px" alt="Twitter">
   </a>
