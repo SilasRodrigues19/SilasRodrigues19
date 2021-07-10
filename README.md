@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💻 Habilidades: <strong>HTML5, CSS3 (Bootstrap, Materialize, SASS, Bulma) JavaScript (ES6, jQuery) PHP5.</strong>
+  💻 Habilidades: <strong>HTML5, CSS3 (Bootstrap, Materialize, SASS, Bulma) JavaScript (ES6, jQuery) PHP.</strong>
 </p>
 
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  💻 Skills: <strong>HTML5, CSS3 (Bootstrap, Materialize, SASS, Bulma) JavaScript (ES6, jQuery) PHP5.</strong>
+  💻 Skills: <strong>HTML5, CSS3 (Bootstrap, Materialize, SASS, Bulma) JavaScript (ES6, jQuery) PHP.</strong>
 </p>
 
 <p align="left">
