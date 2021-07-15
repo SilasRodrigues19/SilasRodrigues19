@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/ width="150px" height="35px" alt="WhatsApp">
+    <img src="icons/whatsapp.svg&link=https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0"/ width="75px" height="75px" alt="WhatsApp">
   </a>
 
   <a href="https://twitter.com/jinuye1/" target="_blank">
