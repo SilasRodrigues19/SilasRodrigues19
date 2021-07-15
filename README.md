@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
-    <img src="whatsapp.svg" width="50px" height="50px" alt="WhatsApp">
+    <img src="icons/wpp.png" width="50px" height="50px" alt="WhatsApp">
   </a>
 
   <a href="https://twitter.com/jinuye1/" target="_blank">
