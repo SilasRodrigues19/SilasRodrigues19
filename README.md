@@ -45,11 +45,11 @@
   </a>
 
   <a href="https://twitter.com/jinuye1/" target="_blank">
-    <img src="twitter.svg" width="50px" height="50px" alt="Twitter">
+    <img src="icons/twitter.png" width="50px" height="50px" alt="Twitter">
   </a>
   
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
-    <img src="gmail.svg" width="50px" height="50px" alt="Gmail">
+    <img src="icons/gmail.png" width="50px" height="50px" alt="Gmail">
   </a>
 </p>  
 <hr>
