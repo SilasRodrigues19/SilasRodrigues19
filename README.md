@@ -40,16 +40,16 @@
 </p>
 
 <p align="left">
-  <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
-    <img src="icons/whatsapp.png" width="50px" height="50px" alt="WhatsApp" style="margin: 10px;">
+  <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank" style="margin:10px;">
+    <img src="icons/whatsapp.png" width="50px" height="50px" alt="WhatsApp">
   </a>
 
   <a href="https://twitter.com/jinuye1/" target="_blank">
-    <img src="icons/twitter.png" width="50px" height="50px" alt="Twitter" style="margin: 10px;">
+    <img src="icons/twitter.png" width="50px" height="50px" alt="Twitter">
   </a>
   
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
-    <img src="icons/gmail.png" width="50px" height="50px" alt="Gmail" style="margin: 10px;">
+    <img src="icons/gmail.png" width="50px" height="50px" alt="Gmail">
   </a>
 </p>  
 <hr>
