@@ -1,5 +1,5 @@
 <hr>
-<img src="banner.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Banner">
+<img src="banner.png" min-width="400px" max-width="380px" align="right" alt="Banner">
 
 <p align="left"> 
   Olá, meu nome é Silas Rodrigues.<br>
