@@ -37,20 +37,21 @@
 
 <p align="left">
   💌 Below are ways to find me for a first contact: ⬇
-</p>
-
-<p align="left">
+  
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/36/36935.png" width="45px" height="50px" alt="WhatsApp">
+    <img align="right" src="https://image.flaticon.com/icons/png/512/36/36935.png" width="45px" height="50px" alt="WhatsApp">
   </a>
 
   <a href="https://twitter.com/jinuye1/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1793/PNG/512/twitterdrawlogo_114742.png" width="50px" height="50px" alt="Twitter">
+    <img align="right" src="https://cdn.icon-icons.com/icons2/1793/PNG/512/twitterdrawlogo_114742.png" width="50px" height="50px" alt="Twitter">
   </a>
   
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/1793/PNG/512/postenvelope_114740.png" width="50px" height="50px" alt="Gmail">
+    <img align="right" src="https://cdn.icon-icons.com/icons2/1793/PNG/512/postenvelope_114740.png" width="50px" height="50px" alt="Gmail">
   </a>
+</p>
+
+  
 </p>  
 <hr>
 
