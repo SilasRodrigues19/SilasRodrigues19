@@ -45,11 +45,11 @@
   </a>
 
   <a href="https://twitter.com/jinuye1/" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/37/37158.png" width="50px" height="50px" alt="Twitter">
+    <img src="https://cdn.icon-icons.com/icons2/1793/PNG/512/twitterdrawlogo_114742.png" width="50px" height="50px" alt="Twitter">
   </a>
   
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/36/36564.png" width="50px" height="50px" alt="Gmail">
+    <img src="https://cdn.icon-icons.com/icons2/1793/PNG/512/postenvelope_114740.png" width="50px" height="50px" alt="Gmail">
   </a>
 </p>  
 <hr>
