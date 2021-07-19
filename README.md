@@ -54,8 +54,5 @@
 </p>  
 <hr>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silasrodrigues19&show_icons=true&locale=en&layout=compact" alt="silasrodrigues19">
-</p>
 
 
