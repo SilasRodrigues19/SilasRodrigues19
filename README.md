@@ -14,11 +14,6 @@
 <p align="left">
   🧰 Ferramentas: <strong>Visual Studio Code, Figma, Trello, MySQL Git e GitHub.</strong>
 </p>
-
-<p align="left">
-  💌 Segue abaixo maneiras de me encontrar para um primeiro contato: ⬇
-</p>
-
 <hr>
 
 <p align="left"> 
@@ -35,9 +30,7 @@
   🧰 Tools: <strong>Visual Studio Code, Figma, Trello, MySQL Git e GitHub.</strong>
 </p>
 
-<p align="left">
-  💌 Below are ways to find me for a first contact: ⬇
-  
+<p align="left">  
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
     <img align="right" src="https://image.flaticon.com/icons/png/512/36/36935.png" width="45px" height="50px" alt="WhatsApp">
   </a>
@@ -50,9 +43,6 @@
     <img align="right" src="https://cdn.icon-icons.com/icons2/1793/PNG/512/postenvelope_114740.png" width="50px" height="50px" alt="Gmail">
   </a>
 </p>
-
-  
-</p>  
 <hr>
 
 
