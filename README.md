@@ -41,15 +41,15 @@
 
 <p align="left">
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
-    <img src="icons/whatsapp.png" width="50px" height="50px" alt="WhatsApp">
+    <img src="https://image.flaticon.com/icons/png/512/1077/1077055.png" width="50px" height="50px" alt="WhatsApp">
   </a>
 
   <a href="https://twitter.com/jinuye1/" target="_blank">
-    <img src="icons/twitter.png" width="50px" height="50px" alt="Twitter">
+    <img src="https://image.flaticon.com/icons/png/512/1077/1077032.png" width="50px" height="50px" alt="Twitter">
   </a>
   
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
-    <img src="icons/gmail.png" width="50px" height="50px" alt="Gmail">
+    <img src="https://image.flaticon.com/icons/png/512/126/126516.png" width="50px" height="50px" alt="Gmail">
   </a>
 </p>  
 <hr>
