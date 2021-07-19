@@ -28,9 +28,7 @@
 
 <p align="left">
   🧰 Tools: <strong>Visual Studio Code, Figma, Trello, MySQL Git e GitHub.</strong>
-</p>
-
-<p align="left">  
+  
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
     <img align="right" src="https://image.flaticon.com/icons/png/512/36/36935.png" width="45px" height="50px" alt="WhatsApp">
   </a>
