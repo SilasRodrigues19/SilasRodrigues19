@@ -1,5 +1,5 @@
 <hr>
-<img src="banner.png" width="350px" align="right" alt="Banner">
+<img src="https://avatars.githubusercontent.com/u/47532703?v=4" width="180px" align="right" alt="Silas Rodrigues">
 
 <p align="left"> 
   Olá, meu nome é Silas Rodrigues.<br>
