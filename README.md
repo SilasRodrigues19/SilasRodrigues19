@@ -1,18 +1,18 @@
-<hr>
+<div style="display: inline_block">
+  <p align="left"> 
+    Olá, meu nome é Silas Rodrigues.<br>
+    Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
+    Estou a procura de um estágio para terminar minha graduação e começar uma carreira de <strong>Desenvolvedor,</strong> com foco na Web.<br>
+  </p>
 
-<p align="left"> 
-  Olá, meu nome é Silas Rodrigues.<br>
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
-  Estou a procura de um estágio para terminar minha graduação e começar uma carreira de <strong>Desenvolvedor,</strong> com foco na Web.<br>
-</p>
+  <hr>
 
-<hr>
-
-<p align="left"> 
-  Hi, my name's Silas Rodrigues.<br>
-  I am a student of <strong>Systems Analysis and Development</strong>.<br>
-  I'm looking for an internship to finish my degree and start a <strong>Developer</strong> career, Web-focused.<br>
-</p>
+  <p align="left"> 
+    Hi, my name's Silas Rodrigues.<br>
+    I am a student of <strong>Systems Analysis and Development</strong>.<br>
+    I'm looking for an internship to finish my degree and start a <strong>Developer</strong> career, Web-focused.<br>
+  </p>
+</div>
 
 <div style="display: inline_block">
 <br>
