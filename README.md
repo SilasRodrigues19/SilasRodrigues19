@@ -52,15 +52,15 @@
 <div style="display: inline_block">
 <hr>
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Whats-4FCE5D?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img align="left" src="https://img.shields.io/badge/-Whats-111?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 
   <a href="https://twitter.com/jinuye1/" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img align="left" src="https://img.shields.io/badge/-Twitter-111?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img align="left" src="https://img.shields.io/badge/-Gmail-111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
