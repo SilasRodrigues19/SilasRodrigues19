@@ -32,6 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="55" alt="react logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="55" alt="php logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="55" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="55" alt="firebase logo" />
   </p>
 </div>
 
@@ -45,6 +46,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="55" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="55" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="55"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" width="55" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" />
   </p>
 </div>
 
@@ -62,6 +67,8 @@
   <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Gmail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+
+  <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
-
-
