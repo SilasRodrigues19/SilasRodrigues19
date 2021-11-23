@@ -8,7 +8,7 @@
   <hr>
 
   <p align="left"> 
-    Hi, my name's Silas Rodrigues.<br>
+    Hi, my name is Silas Rodrigues.<br>
     I am a student of <strong>Systems Analysis and Development</strong>.<br>
     I'm looking for an internship to start a <strong>Developer</strong> career, Web-focused.<br>
   </p>
