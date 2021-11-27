@@ -1,4 +1,5 @@
 <div style="display: inline_block">
+<samp>
   <p align="left"> 
     Olá, meu nome é Silas Rodrigues.<br>
     Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
@@ -17,6 +18,7 @@
 <div style="display: inline_block">
 <br>
   <p align="left">
+  <samp>
   💻 Habilidades / Skills
   </p>
   <br>
@@ -38,6 +40,7 @@
 
 <div style="display: inline_block">
 <br>
+  <samp>
   <p align="left">
   🧰 Ferramentas / Tools
   </p>
