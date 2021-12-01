@@ -1,25 +1,30 @@
 <div style="display: inline_block">
 <samp>
+  <h2 align="center">Hi there, I'm 
+    <a href="https://silasrodrigues.000webhostapp.com/public">
+      Silas Rodrigues
+    </a>
+      <img align="center" src="https://acegif.com/wp-content/gifs/hello-47.gif" height="45px" />
+  </h2>
   <p align="left"> 
-    Olá, meu nome é Silas Rodrigues.<br>
-    Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
-    Estou a procura de um estágio para começar uma carreira de <strong>Desenvolvedor,</strong> com foco na Web.<br>
+   <br>
+    I'm graduated in <strong>System Analysis and Development</strong> and I'm Looking for an internship to start a <strong>Developer</strong> career, Web-focused.<br>
   </p>
-
-  <hr>
-
-  <p align="left"> 
-    Hi, my name is Silas Rodrigues.<br>
-    I am a student of <strong>Systems Analysis and Development</strong>.<br>
-    I'm looking for an internship to start a <strong>Developer</strong> career, Web-focused.<br>
-  </p>
+  <ul align="left">
+    <li>🏝 I'm from São Paulo, Brazil.</li>
+    I've a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences
+    <li>💜 I've a great passion for Front End Development and UI Motion.</li>
+    <li>🌱 Learning Back End and improving Front End skills.</li>
+    <li> 💡 I try to help people who are starting in programming and learn from people who are more experienced than me.</li>
+    <li>📚 Improving my English skills.</li>
+    <li>🎮 In my free time I like to play League Of Legends, play soccer and read tech news.</li>
+  </ul>
 </div>
-
 <div style="display: inline_block">
 <br>
   <p align="left">
   <samp>
-  💻 Habilidades / Skills
+  💻 Technologies
   </p>
   <br>
   <p align="left">
@@ -42,7 +47,7 @@
 <br>
   <samp>
   <p align="left">
-  🧰 Ferramentas / Tools
+  🧰 Web Tools
   </p>
   <br>
   <p align="left">
