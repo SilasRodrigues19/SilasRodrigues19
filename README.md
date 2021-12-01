@@ -60,9 +60,11 @@
   </p>
 </div>
 
-
-<div style="display: inline_block">
-<hr>
+<br>
+<div style="display: inline_block" >
+  <h2 align="left">Get in touch
+      <img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/02/icon-1.5s-266px-2.gif" height="65px" />
+  </h2>
   <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
