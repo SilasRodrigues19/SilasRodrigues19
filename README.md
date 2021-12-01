@@ -62,6 +62,7 @@
 
 <br>
 <div style="display: inline_block">
+  <samp>
   <h2 align="left">Get in touch
       <img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/02/icon-1.5s-266px-2.gif" height="65px" />
   </h2>
