@@ -15,7 +15,7 @@
     <li>💜 I've a great passion for Front End Development and UI Motion.</li>
     <li>🌱 Learning Back End and improving Front End skills.</li>
     <li> 💡 I try to help people who are starting in programming and learn from people who are more experienced than me.</li>
-    <li>📚 Improving my English skills.</li>
+    <li>📚 I speak Portuguese and I'm improving my English.</li>
     <li>🎮 In my free time I like to play League Of Legends, play soccer and read tech news.</li>
   </ul>
 </div>
