@@ -12,7 +12,6 @@
   </p>
   <ul align="left">
     <li>🏝 I'm from São Paulo, Brazil.</li>
-    I've a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences
     <li>💜 I've a great passion for Front End Development and UI Motion.</li>
     <li>🌱 Learning Back End and improving Front End skills.</li>
     <li> 💡 I try to help people who are starting in programming and learn from people who are more experienced than me.</li>
