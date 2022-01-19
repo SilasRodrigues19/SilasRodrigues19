@@ -8,15 +8,15 @@
   </h2>
   <p align="left"> 
    <br>
-    I'm graduated in <strong>System Analysis and Development</strong> and I'm Looking for an internship to start a <strong>Developer</strong> career, Web-focused.<br>
+    I've a degree in <strong>Systems Analysis and Development</strong> and I'm Looking for an internship or an opportunity as a <strong>Front End</strong> to start a <strong>Web Developer</strong> Career.<br>
   </p>
   <ul align="left">
     <li>🏝 I'm from São Paulo, Brazil.</li>
     <li>💜 I've a great passion for Front End Development and UI Motion.</li>
     <li>🌱 Learning Back End and improving Front End skills.</li>
     <li> 💡 I try to help people who are starting in programming and learn from people who are more experienced than me.</li>
-    <li>📚 I speak Portuguese and I'm improving my English.</li>
-    <li>🎮 In my free time I like to play League Of Legends, play soccer and read tech news.</li>
+    <li>📚 I'm a native portuguese speaker and I'm improving my English.</li>
+    <li>🎮 In my free time I like to play League of Legends, play soccer and read tech news.</li>
   </ul>
 </div>
 <div style="display: inline_block">
