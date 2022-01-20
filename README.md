@@ -73,8 +73,8 @@
     <img align="left" src="https://img.shields.io/badge/-Twitter-1c1c1c?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   
-  <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Gmail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:contact@silasrodrigues.me?subject=Contato GitHub" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Zoho Mail">
   </a>
 
   <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
