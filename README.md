@@ -65,7 +65,7 @@
   <h2 align="left">Get in touch
       <img align="center" src="./images/mail.gif" height="65px" />
   </h2>
-  <a href="https://api.whatsapp.com/send/?phone=5519986024827&text&app_absent=0" target="_blank">
+  <a href="https://wa.me/5519992576970" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 
