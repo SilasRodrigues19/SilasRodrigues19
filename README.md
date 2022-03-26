@@ -8,7 +8,7 @@
   </h2>
   <p align="left"> 
    <br>
-    I've a degree in <strong>Systems Analysis and Development,</strong> and I'm looking for an internship or an opportunity as a <strong>Front End</strong> to start a <strong>Web Developer</strong> Career.<br>
+    I've a degree in <strong>Systems Analysis and Development,</strong> and I'm looking for an internship or an opportunity as a <strong>Front End Developer.</strong><br>
   </p>
   <ul align="left">
     <li>🏝 I'm from São Paulo, Brazil.</li>
