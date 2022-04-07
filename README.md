@@ -63,6 +63,38 @@
 </div>
 
 <br>
+
+<div style="display: inline_block">
+  <samp>
+  <h2 align="left">Experience</h2>
+<br>
+  <table width="100">
+    <thead>
+      <tr>
+        <th>Company</th>
+        <th>Position</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://crmservices.com.br">
+            <img align="center" src="./images/crm-logo.png" height="15px"  alt="CRM logo" title="CRM Services" />
+          </a>
+        </td>
+        <td>
+          PHP Developer
+        </td>
+        <td>
+          March/22 - Now
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br>
 <div style="display: inline_block">
   <samp>
   <h2 align="left">Get in touch
