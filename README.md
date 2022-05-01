@@ -111,8 +111,14 @@
   <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</div>
+<br><br><br>
 
-  <a href="https://www.twitter.com/Jinuye1" target="_blank">
+<div style="display: inline_block">
+  <samp>
+  <h2 align="left">Follow me
+  </h2>
+    <a href="https://www.twitter.com/Jinuye1" target="_blank">
     <img align="left" src="https://img.shields.io/twitter/follow/Jinuye1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white" alt="Twitter">
   </a>
 
