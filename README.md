@@ -103,10 +103,6 @@
   <a href="https://wa.me/5519992576970" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-
-  <a href="https://twitter.com/jinuye1/" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Twitter-1c1c1c?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
   
   <a href="mailto:contact@silasrodrigues.me?subject=Contato GitHub" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Zoho Mail">
@@ -114,5 +110,13 @@
 
   <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.twitter.com/Jinuye1" target="_blank">
+    <img align="left" src="https://img.shields.io/twitter/follow/Jinuye1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white" alt="Twitter">
+  </a>
+
+  <a href="https://www.github.com/SilasRodrigues19" target="_blank">
+    <img src="https://img.shields.io/github/followers/SilasRodrigues19?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white">
   </a>
 </div>
