@@ -112,7 +112,7 @@
     <img align="left" src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-<br><br><br>
+<br><br>
 
 <div style="display: inline_block">
   <samp>
