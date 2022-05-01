@@ -118,7 +118,7 @@
   <samp>
   <h2 align="left">Follow me
   </h2>
-    <a href="https://www.twitter.com/Jinuye1" target="_blank">
+    <a href="https://twitter.com/intent/user?screen_name=Jinuye1" target="_blank">
     <img align="left" src="https://img.shields.io/twitter/follow/Jinuye1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white" alt="Twitter">
   </a>
 
