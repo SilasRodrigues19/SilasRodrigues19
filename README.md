@@ -42,7 +42,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" width="55" alt="codeigniter logo" title="CodeIgniter" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="30" width="55" alt="mongodb logo" title="MongoDB" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="55" alt="mysql logo" title="SQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="55" alt="oracle logo" title="Oracle" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" width="55" alt="oracle logo" title="Oracle" />
   </p>
 </div>
 
