@@ -140,7 +140,7 @@
   </a>
   
   <a href="mailto:contact@silasrodrigues.me?subject=Contato GitHub" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Mail-white?style=for-the-badge&logo=gmail&logoColor=1c1c1c" alt="Zoho Mail">
+    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Zoho Mail">
   </a>
 
   <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
