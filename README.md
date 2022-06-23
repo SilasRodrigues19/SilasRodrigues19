@@ -104,17 +104,16 @@
   <h2 align="left">Most used languagens and stats</h2>
 <br>
   <table width="50%">
-    <hr>
     <tr>
       <td align="center">
         <details>
-          <summary>Most Used Languages</summary>
+          <summary style="margin: 15px 0;">Most Used Languages</summary>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=SilasRodrigues19&theme=dracula" alt="Most Used Languages" />
         </details>
       </td>
       <td align="center">
         <details>
-          <summary>Readme Stats</summary>
+          <summary style="margin: 15px 0;">Readme Stats</summary>
           <img src="https://github-readme-stats.vercel.app/api?username=silasrodrigues19&count_private=true&show_icons=true&theme=dracula&title_color=fff&icon_color=0891b2" alt="Readme Stats" />
         </details>
       </td>
