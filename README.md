@@ -107,13 +107,15 @@
     <tr>
       <td align="center">
         <details>
-          <summary style="margin: 15px 0;">Most Used Languages</summary>
+          <summary>Most Used Languages</summary>
+          <hr>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=SilasRodrigues19&theme=dracula" alt="Most Used Languages" />
         </details>
       </td>
       <td align="center">
         <details>
-          <summary style="margin: 15px 0;">Readme Stats</summary>
+          <summary>Readme Stats</summary>
+          <hr>
           <img src="https://github-readme-stats.vercel.app/api?username=silasrodrigues19&count_private=true&show_icons=true&theme=dracula&title_color=fff&icon_color=0891b2" alt="Readme Stats" />
         </details>
       </td>
