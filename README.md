@@ -97,6 +97,12 @@
   </table>
 </div>
 
+<div class="display-inline-block">
+  <a href="https://silasrodrigues.me/resume.pdf" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Resume-ccc?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=1c1c1c" alt="Resume">
+  </a>
+</div>
+
 <br>
 
 <div style="display: inline_block">
@@ -134,7 +140,7 @@
   </a>
   
   <a href="mailto:contact@silasrodrigues.me?subject=Contato GitHub" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Zoho Mail">
+    <img align="left" src="https://img.shields.io/badge/-Mail-white?style=for-the-badge&logo=gmail&logoColor=1c1c1c" alt="Zoho Mail">
   </a>
 
   <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
