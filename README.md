@@ -22,9 +22,9 @@
 </div>
 <div style="display: inline_block">
 <br>
-  <p align="left">
+  <p align="left" vertical-align="center">
   <samp>
-  💻 Technologies
+  🔌 Technologies
   </p>
   <br>
   <p align="left">
@@ -49,8 +49,8 @@
 <div style="display: inline_block">
 <br>
   <samp>
-  <p align="left">
-  🧰 Tools
+  <p align="left" vertical-align="center">
+  🔧 Tools
   </p>
   <br>
   <p align="left">
