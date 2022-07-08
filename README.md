@@ -107,20 +107,20 @@
 
 <div style="display: inline_block">
   <samp>
-  <h2 align="left">Most used languagens and stats</h2>
+  <h2 align="left">GitHub Stats</h2>
 <br>
   <table width="50%">
     <tr>
       <td align="center">
         <details>
-          <summary>Most Used Languages</summary>
+          <summary>Streak and contributions</summary>
           <hr>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=SilasRodrigues19&theme=dracula" alt="Most Used Languages" />
         </details>
       </td>
       <td align="center">
         <details>
-          <summary>Readme Stats</summary>
+          <summary>Stats</summary>
           <hr>
           <img src="https://github-readme-stats.vercel.app/api?username=silasrodrigues19&count_private=true&show_icons=true&theme=dracula&title_color=fff&icon_color=0891b2" alt="Readme Stats" />
         </details>
