@@ -1,35 +1,35 @@
 <div style="display: inline_block">
 <samp>
-  <h2 align="center">Hi there, I'm 
+  <h2 align="center">Olá, eu sou
     <a href="http://silasrodrigues.me">
       Silas Rodrigues
     </a>
-      <img align="center" src="./images/hello.gif" height="45px" alt="Hello" />
+      <img align="center" src="../images/hello.gif" height="45px" alt="Olá" />
   </h2>
 
   <p align="center">
-    <a href="./translation/README-pt_BR.md">Portuguese (pt-BR)</a>
+    <a href="../README.md">English</a>
   </p>
 
   <p align="left"> 
    <br>
-    I've a degree in <strong>Systems Analysis and Development,</strong> and I'm looking for an internship or an opportunity as a <strong>Front End Developer.</strong><br>
+    Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e estou em busca de um estágio ou oportunidade como <strong>Desenvolvedor Front End.</strong><br>
   </p>
   <ul align="left">
-    <li>🏝 I'm from São Paulo, Brazil.</li>
-    <li>💜 I've a great passion for Front End Development and UI Motion.</li>
-    <li>🌱 Learning Back End and improving Front End skills.</li>
-    <li>💻 I'm currently an intern as a PHP developer</li>
-    <li> 💡 I try to help people who are starting in programming and learn from people who are more experienced than me.</li>
-    <li>📚 I'm a native Portuguese speaker and I'm improving my English.</li>
-    <li>🎮 In my free time I like to play League of Legends, play soccer and read tech news.</li>
+    <li>🏝 Sou de São Paulo, Brasil.</li>
+    <li>💜 Eu tenho uma grande paixão pelo desenvolvimento Front End e UI Motion.</li>
+    <li>🌱 Aprendendo Back End e melhorando minhas habilidades como Front End.</li>
+    <li>💻 Atualmente sou estagiário como desenvolvedor PHP</li>
+    <li> 💡 Eu tento ajudar pessoas que estão começando a programar e busco aprender com pessoas que são mais experientes que eu.</li>
+    <li>📚 Sou falante nativo da lingua portuguesa mas e estou melhorando meu Inglês.</li>
+    <li>🎮 No meu tempo livre gosto de jogar League of Legends, futebol e ler notícias de tecnologia</li>
   </ul>
 </div>
 <div style="display: inline_block">
 <br>
   <p align="left" vertical-align="center">
   <samp>
-  🔌 Technologies
+  🔌 Tecnologias
   </p>
   <br>
   <p align="left">
@@ -55,7 +55,7 @@
 <br>
   <samp>
   <p align="left" vertical-align="center">
-  🔧 Tools
+  🔧 Ferramentas
   </p>
   <br>
   <p align="left">
@@ -74,28 +74,28 @@
 
 <div style="display: inline_block">
   <samp>
-  <h2 align="left">Experience</h2>
+  <h2 align="left">Experiência</h2>
 <br>
   <table width="100">
     <thead>
       <tr>
-        <th>Company</th>
-        <th>Position</th>
-        <th>Date</th>
+        <th>Empresa</th>
+        <th>Função</th>
+        <th>Data</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">
           <a href="https://crmservices.com.br">
-            <img align="center" src="./images/crm-logo.png" height="15px" alt="CRM logo" title="CRM Services" />
+            <img align="center" src="../images/crm-logo.png" height="15px" alt="CRM logo" title="CRM Services" />
           </a>
         </td>
         <td>
-          PHP Developer
+          Desenvolvedor PHP
         </td>
         <td>
-          March/22 - Now
+          03/2022 - Atualmente
         </td>
       </tr>
     </tbody>
@@ -104,7 +104,7 @@
 
 <div class="display-inline-block">
   <a href="https://silasrodrigues.me/resume.pdf" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Resume-ccc?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=1c1c1c" alt="Resume">
+    <img align="center" src="https://img.shields.io/badge/-Currículo-ccc?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=1c1c1c" alt="Currículo">
   </a>
 </div>
 
@@ -112,22 +112,22 @@
 
 <div style="display: inline_block">
   <samp>
-  <h2 align="left">GitHub Stats</h2>
+  <h2 align="left">Estatísticas do GitHub</h2>
 <br>
   <table width="50%">
     <tr>
       <td align="center">
         <details>
-          <summary>Streak and contributions</summary>
+          <summary>Sequência de atividade e contribuições</summary>
           <hr>
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=SilasRodrigues19&theme=dracula" alt="Most Used Languages" />
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=SilasRodrigues19&theme=dracula" alt="Linguagens mais utilizadas" />
         </details>
       </td>
       <td align="center">
         <details>
-          <summary>Stats</summary>
+          <summary>Estatísticas</summary>
           <hr>
-          <img src="https://github-readme-stats.vercel.app/api?username=silasrodrigues19&count_private=true&show_icons=true&theme=dracula&title_color=fff&icon_color=0891b2" alt="Readme Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=silasrodrigues19&count_private=true&show_icons=true&theme=dracula&title_color=fff&icon_color=0891b2" alt="Estatísticas" />
         </details>
       </td>
     </tr>
@@ -138,14 +138,14 @@
 <br>
 <div style="display: inline_block">
   <samp>
-  <h2 align="left">Get in touch
+  <h2 align="left">Entrar em contato
   </h2>
   <a href="https://wa.me/5519992576970" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   
   <a href="mailto:contact@silasrodrigues.me?subject=Contato GitHub" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Zoho Mail">
+    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Zoho email">
   </a>
 
   <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
@@ -156,7 +156,7 @@
 
 <div style="display: inline_block">
   <samp>
-  <h2 align="left">Follow me
+  <h2 align="left">Me siga
   </h2>
     <a href="https://twitter.com/intent/user?screen_name=Jinuye1" target="_blank">
     <img align="left" src="https://img.shields.io/twitter/follow/Jinuye1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white" alt="Twitter">
