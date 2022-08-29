@@ -95,7 +95,7 @@
           PHP Developer
         </td>
         <td>
-          March/22 - Now
+          March/22 - August/22
         </td>
       </tr>
     </tbody>
@@ -113,6 +113,7 @@
 <div style="display: inline_block">
   <samp>
   <h2 align="left">GitHub Stats</h2>
+  <p align="left">These stats are based on 50+ repos, some of them are <strong>private repos</strong></p>
 <br>
   <table width="50%">
     <tr>
@@ -144,8 +145,8 @@
     <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   
-  <a href="mailto:contact@silasrodrigues.me?subject=Contato GitHub" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Zoho Mail">
+  <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
   <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
