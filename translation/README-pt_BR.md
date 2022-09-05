@@ -118,7 +118,7 @@
   <table width="50%">
     <tr>
       <td align="center">
-        <details>
+        <details open>
           <summary>Sequência de atividade e contribuições</summary>
           <hr>
           <a href="https://github.com/SilasRodrigues19">
@@ -127,7 +127,7 @@
         </details>
       </td>
       <td align="center">
-        <details>
+        <details open>
           <summary>Estatísticas</summary>
           <hr>
           <a href="https://github.com/SilasRodrigues19">

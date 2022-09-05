@@ -118,7 +118,7 @@
   <table width="50%">
     <tr>
       <td align="center">
-        <details>
+        <details open>
           <summary>Streak and contributions</summary>
           <hr>
           <a href="https://github.com/SilasRodrigues19">
@@ -127,7 +127,7 @@
         </details>
       </td>
       <td align="center">
-        <details>
+        <details open>
           <summary>Stats</summary>
           <hr>
           <a href="https://github.com/SilasRodrigues19">
