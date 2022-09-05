@@ -121,14 +121,18 @@
         <details>
           <summary>Sequência de atividade e contribuições</summary>
           <hr>
+          <a href="https://github.com/SilasRodrigues19">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=SilasRodrigues19&theme=dracula" alt="Linguagens mais utilizadas" />
+          </a>
         </details>
       </td>
       <td align="center">
         <details>
           <summary>Estatísticas</summary>
           <hr>
-          <img src="https://github-readme-stats.vercel.app/api?username=silasrodrigues19&count_private=true&show_icons=true&theme=dracula&title_color=fff&icon_color=0891b2" alt="Estatísticas" />
+          <a href="https://github.com/SilasRodrigues19">
+            <img src="https://github-readme-stats.vercel.app/api?username=SilasRodrigues19&show_icons=true&theme=dracula&icon_color=ff79c6&include_all_commits=true&count_private=true" alt="Estatísticas" />
+          </a>
         </details>
       </td>
     </tr>
