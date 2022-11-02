@@ -13,14 +13,14 @@
 
   <p align="left"> 
    <br>
-    I've a degree in <strong>Systems Analysis and Development,</strong> and I'm looking for an internship or an opportunity as a <strong>Front End Developer.</strong><br>
+    I've a degree in <strong>Systems Analysis and Development,</strong> and I'm looking for an opportunity as a <strong>Front End Developer.</strong><br>
   </p>
   <ul align="left">
     <li>🏝 I'm from São Paulo, Brazil.</li>
     <li>💜 I've a great passion for Front End Development and UI Motion.</li>
-    <li>🌱 Learning Back End and improving Front End skills.</li>
-    <li>💻 I'm currently an intern as a PHP developer</li>
-    <li> 💡 I try to help people who are starting in programming and learn from people who are more experienced than me.</li>
+    <li>🌱 Enhancing my overall Front and Back end web development abilities.</li>
+    <li>💻 I'm currently a PHP Junior Help Desk Analyst.</li>
+    <li> 💡 In addition to trying to learn from those with more expertise than me, I attempt to assist others who are just learning to program whenever I can.</li>
     <li>📚 I'm a native Portuguese speaker and I'm improving my English.</li>
     <li>🎮 In my free time I like to play League of Legends, play soccer and read tech news.</li>
   </ul>
