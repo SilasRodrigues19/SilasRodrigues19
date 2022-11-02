@@ -18,10 +18,10 @@
   <ul align="left">
     <li>🏝 Sou de São Paulo, Brasil.</li>
     <li>💜 Eu tenho uma grande paixão pelo desenvolvimento Front End e UI Motion.</li>
-    <li>🌱 Aprendendo Back End e melhorando minhas habilidades como Front End.</li>
-    <li>💻 Atualmente sou estagiário como desenvolvedor PHP</li>
-    <li> 💡 Eu tento ajudar pessoas que estão começando a programar e busco aprender com pessoas que são mais experientes que eu.</li>
-    <li>📚 Sou falante nativo da lingua portuguesa mas e estou melhorando meu Inglês.</li>
+    <li>🌱 Melhorando minhas habilidades com Desenvolvimento Web como um todo, front e back end.</li>
+    <li>💻 Atualmente sou Analista de Help Desk PHP Junior.</li>
+    <li> 💡 Além de tentar aprender com pessoas mais experientes do que eu, sempre que posso tento ajudar quem está aprendendo a programar.</li>
+    <li>📚 Sou falante nativo da lingua portuguesa mas estou melhorando meu Inglês.</li>
     <li>🎮 No meu tempo livre gosto de jogar League of Legends, futebol e ler notícias de tecnologia</li>
   </ul>
 </div>
