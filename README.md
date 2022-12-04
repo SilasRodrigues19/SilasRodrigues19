@@ -39,6 +39,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="55" alt="tailwind logo" title="Tailwind CSS" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="55" alt="material ui logo" title="Material UI"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="55" alt="sass logo" title="SASS" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="30" width="55" alt="stylus logo" title="Stylus" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="55" alt="javascript logo" title="JavaScript" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="55" alt="jquery logo" title="JQuery" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="55" alt="typescript logo" title="TypeScript" />
@@ -63,6 +64,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="55" alt="figma logo" title="Figma" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="55" alt="canva logo" title="Canva" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="55" alt="trello logo" title="Trello" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="55" alt="jira logo" title="Jira" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="55" alt="filezilla logo" title="FileZilla" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="55" alt="git logo" title="Git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" alt="linux logo" title="Linux" />
