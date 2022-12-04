@@ -29,7 +29,7 @@
 <br>
   <p align="left" vertical-align="center">
   <samp>
-  🔌 Tecnologias
+  🔌 Principais Tecnologias
   </p>
   <br>
   <p align="left">
@@ -39,6 +39,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="55" alt="tailwind logo" title="Tailwind CSS" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="55" alt="material ui logo" title="Material UI"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="55" alt="sass logo" title="SASS" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="30" width="55" alt="stylus logo" title="Stylus" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="55" alt="javascript logo" title="JavaScript" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="55" alt="jquery logo" title="JQuery" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="55" alt="typescript logo" title="TypeScript" />
@@ -55,7 +56,7 @@
 <br>
   <samp>
   <p align="left" vertical-align="center">
-  🔧 Ferramentas
+  🔧 Principais Ferramentas
   </p>
   <br>
   <p align="left">
@@ -63,6 +64,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="55" alt="figma logo" title="Figma" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="55" alt="canva logo" title="Canva" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="55" alt="trello logo" title="Trello" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="55" alt="jira logo" title="Jira" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="55" alt="filezilla logo" title="FileZilla" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="55" alt="git logo" title="Git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" alt="linux logo" title="Linux" />
@@ -71,36 +73,6 @@
 </div>
 
 <br>
-
-<div style="display: inline_block">
-  <samp>
-  <h2 align="left">Experiência</h2>
-<br>
-  <table width="100">
-    <thead>
-      <tr>
-        <th>Empresa</th>
-        <th>Função</th>
-        <th>Data</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <a href="https://crmservices.com.br">
-            <img align="center" src="../images/crm-logo.png" height="15px" alt="CRM logo" title="CRM Services" />
-          </a>
-        </td>
-        <td>
-          Desenvolvedor PHP
-        </td>
-        <td>
-          03/2022 - 08/2022
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 <div class="display-inline-block">
   <a href="https://silasrodrigues.me/resume.pdf" target="_blank">
