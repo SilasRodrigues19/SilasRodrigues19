@@ -1,7 +1,7 @@
 <div style="display: inline_block">
 <samp>
   <h2 align="center">Olá, eu sou
-    <a href="http://silasrodrigues.me">
+    <a href="https://silasrodrigues.vercel.app">
       Silas Rodrigues
     </a>
       <img align="center" src="../images/hello.gif" height="45px" alt="Olá" />
@@ -75,7 +75,7 @@
 <br>
 
 <div class="display-inline-block">
-  <a href="https://silasrodrigues.me/resume.pdf" target="_blank">
+  <a href="https://silasrodrigues.vercel.app/resume.pdf" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Currículo-ccc?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=1c1c1c" alt="Currículo">
   </a>
 </div>
