@@ -88,7 +88,7 @@
 <div style="display: inline_block">
   <samp>
   <h2 align="left">Estatísticas do GitHub</h2>
-  <p align="left">Essas estatísticas são baseadas em mais de 50 repositórios, parte deles são <strong>repositórios privados</strong></p>
+  <p align="left">Essas estatísticas são baseadas em mais de 90 repositórios, parte deles são <strong>repositórios privados</strong></p>
 <br>
   <table width="50%">
     <tr>

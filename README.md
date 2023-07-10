@@ -88,7 +88,7 @@
 <div style="display: inline_block">
   <samp>
   <h2 align="left">GitHub Stats</h2>
-  <p align="left">These stats are based on 50+ repos, some of them are <strong>private repos</strong></p>
+  <p align="left">These stats are based on 90+ repos, some of them are <strong>private repos</strong></p>
 <br>
   <table width="50%">
     <tr>
