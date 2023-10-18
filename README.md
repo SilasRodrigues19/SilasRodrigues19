@@ -13,13 +13,13 @@
 
   <p align="left"> 
    <br>
-    I've a degree in <strong>Systems Analysis and Development,</strong> and I'm looking for an opportunity as a <strong>Front End Developer.</strong><br>
+    Graduated in <strong>Systems Analysis and Development</strong>, seeking to contribute to open-source projects and available for freelance and work
   </p>
   <ul align="left">
     <li>🏝 I'm from São Paulo, Brazil.</li>
     <li>💜 I've a great passion for Front End Development and UI Motion.</li>
     <li>🌱 Enhancing my overall Front and Back end web development abilities.</li>
-    <li>💻 I'm currently a PHP Junior Help Desk Analyst.</li>
+    <li>💻 Currently unemployed and working only as a freelancer at Workana.</li>
     <li> 💡 In addition to trying to learn from those with more expertise than me, I attempt to assist others who are just learning to program whenever I can.</li>
     <li>📚 I'm a native Portuguese speaker and I'm improving my English.</li>
     <li>🎮 In my free time I like to play League of Legends, play soccer and read tech news.</li>
@@ -35,6 +35,9 @@
   <p align="left">
     <img align="center" src="./images/next.svg" height="30" width="55" alt="nextjs logo" title="Next JS" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="55" alt="react logo" title="React JS" />
+    <img align="center" src="./images/astro.svg" height="30" width="55" alt="astro logo" title="Astro JS" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="55" alt="react logo" title="Node JS" />
+    <img align="center" src="./images/fastify.svg" height="30" width="55" alt="react logo" title="Fastify" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="55" alt="typescript logo" title="TypeScript" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="55" alt="tailwind logo" title="Tailwind CSS" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="55" alt="html5 logo" title="HTML 5" />
@@ -42,7 +45,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="55" alt="bootstrap logo" title="Bootstrap" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="55" alt="material ui logo" title="Material UI"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="55" alt="sass logo" title="SASS" />
-    <img align="center" src="./images/stylus.svg" height="30" width="55" alt="stylus logo" title="Stylus" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="55" alt="javascript logo" title="JavaScript" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="55" alt="jquery logo" title="JQuery" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="55" alt="php logo" title="PHP" />
@@ -72,6 +74,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="55" alt="git logo" title="Git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" alt="linux logo" title="Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  height="30" width="55" alt="NPM - Node Package Managar" title="NPM" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"  height="30" width="55" alt="ESLint" title="ESLint" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"  height="30" width="55" alt="Babel - Transpiler" title="Babel" />
+    <img src="./images/lighthouse.svg"  height="30" width="55" alt="Lighthouse - Google" title="Lighthouse" />
   </p>
 </div>
 
@@ -88,7 +93,7 @@
 <div style="display: inline_block">
   <samp>
   <h2 align="left">GitHub Stats</h2>
-  <p align="left">These stats are based on 90+ repos, some of them are <strong>private repos</strong></p>
+  <p align="left">These stats are based on 100+ repos, some of them are <strong>private repos</strong></p>
 <br>
   <table width="50%">
     <tr>
@@ -138,7 +143,7 @@
   <samp>
   <h2 align="left">Follow me
   </h2>
-    <a href="https://twitter.com/intent/user?screen_name=Jinuye1" target="_blank">
+  <a href="https://twitter.com/intent/user?screen_name=Jinuye1" target="_blank">
     <img align="left" src="https://img.shields.io/twitter/follow/Jinuye1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white" alt="Twitter">
   </a>
 
