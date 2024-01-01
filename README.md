@@ -45,6 +45,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="55" alt="bootstrap logo" title="Bootstrap" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="55" alt="material ui logo" title="Material UI"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="55" alt="sass logo" title="SASS" />
+    <img align="center" src="./images/shadcnui.svg" height="30" width="55" alt="shadcdn ui logo" title="shadcn/ui" />
+    <img align="center" src="./images/radix-ui.svg" height="30" width="55" alt="radix-ui logo" title="radix-ui" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="55" alt="javascript logo" title="JavaScript" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="55" alt="jquery logo" title="JQuery" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="55" alt="php logo" title="PHP" />
@@ -53,7 +55,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="55" alt="mysql logo" title="SQL" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" width="55" alt="oracle logo" title="Oracle" />
     <img align="center" src="./images/prisma.svg" height="30" width="55" alt="prisma logo" title="Prisma" />
-    <img align="center" src="./images/supabase.svg" height="30" width="55" alt="supabase logo" title="Supabase" />
   </p>
 </div>
 
@@ -76,6 +77,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  height="30" width="55" alt="NPM - Node Package Managar" title="NPM" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"  height="30" width="55" alt="ESLint" title="ESLint" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"  height="30" width="55" alt="Babel - Transpiler" title="Babel" />
+    <img align="center" src="./images/supabase.svg" height="30" width="55" alt="supabase logo" title="Supabase" />
     <img src="./images/lighthouse.svg"  height="30" width="55" alt="Lighthouse - Google" title="Lighthouse" />
   </p>
 </div>
@@ -125,16 +127,16 @@
   <samp>
   <h2 align="left">Get in touch
   </h2>
-  <a href="https://wa.me/5519992576970" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://wa.me/5519992576970" target="_blank" aria-label="Chat on WhatsApp with Silas Rodrigues">
+    <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&labelColor=0891b2&logoColor=white" alt="WhatsApp">
   </a>
   
-  <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank" aria-label="Get in touch with Silas Rodrigues on Gmail">
+    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&labelColor=0891b2&logoColor=white" alt="Gmail">
   </a>
 
-  <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank" aria-label="Silas Rodrigues on LinkedIn">
+    <img align="left" src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&labelColor=0891b2&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 <br><br>
@@ -143,11 +145,34 @@
   <samp>
   <h2 align="left">Follow me
   </h2>
-  <a href="https://twitter.com/intent/user?screen_name=Jinuye1" target="_blank">
+  <a href="https://twitter.com/intent/user?screen_name=Jinuye1" target="_blank" aria-label="Silas Rodrigues on Twitter">
     <img align="left" src="https://img.shields.io/twitter/follow/Jinuye1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white" alt="Twitter">
   </a>
 
-  <a href="https://www.github.com/SilasRodrigues19" target="_blank">
-    <img src="https://img.shields.io/github/followers/SilasRodrigues19?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white">
+  <a href="https://www.github.com/SilasRodrigues19" target="_blank" aria-label="Silas Rodrigues on GitHub">
+    <img align="left" src="https://img.shields.io/github/followers/SilasRodrigues19?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white" alt="Github">
   </a>
+
+  <a href="https://codepen.io/SilasRodrigues19" target="_blank" aria-label="Silas Rodrigues on CodePen">
+    <img align="left" src="https://img.shields.io/badge/Codepen-000000?logo=codepen&style=for-the-badge&color=1c1c1c&labelColor=0891b2&logoColor=white" alt="CodePen">
+  </a>
+
+  <a href="https://hashnode.com/@SilasRodrigues19" target="_blank" aria-label="Silas Rodrigues on Hashnode">
+    <img align="left" src="https://img.shields.io/badge/Hashnode-0A0A0A?logo=hashnode&style=for-the-badge&color=1c1c1c&labelColor=0891b2&logoColor=white" alt="Hashnode">
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/silasrodrigues19" target="_blank" aria-label="Silas Rodrigues on Hacker Rank">
+    <img align="left" src="https://img.shields.io/badge/-Hacker&nbsp;rank-2EC866?logo=HackerRank&style=for-the-badge&color=1c1c1c&labelColor=0891b2&logoColor=white" alt="Hacker rank">
+  </a>
+
+  <br><br>
+
+  <div style="display: inline_block">
+    <samp>
+    <h2 align="left">Support me<h2>
+    <a href="https://ko-fi.com/silasrodrigues" target="_blank" aria-label="Support Silas Rodrigues on Ko-fi">
+      <img align="left"  src="https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&style=for-the-badge&color=1c1c1c&labelColor=0891b2&logoColor=white" alt="Ko-fi">
+    </a>
+  </div>
+
 </div>
