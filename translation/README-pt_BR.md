@@ -77,7 +77,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  height="30" width="55" alt="NPM - Node Package Managar" title="NPM" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"  height="30" width="55" alt="ESLint" title="ESLint" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"  height="30" width="55" alt="Babel - Transpiler" title="Babel" />
-    <img align="center" src="../images/supabase.svg" height="30" width="55" alt="supabase logo" title="Supabase" />
+    <img src="../images/supabase.svg" height="30" width="55" alt="supabase logo" title="Supabase" />
     <img src="../images/lighthouse.svg"  height="30" width="55" alt="Lighthouse - Google" title="Lighthouse" />
   </p>
 </div>
