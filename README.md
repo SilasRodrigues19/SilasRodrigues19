@@ -4,7 +4,7 @@
       <a href="https://silasrodrigues.vercel.app">
         Silas Rodrigues
       </a>
-      <img align="center" src="../images/hello.gif" height="45px" alt="Hello" />
+      <img align="center" src="./images/hello.gif" height="45px" alt="Hello" />
     </h2>
     <p align="center">
       <a href="./translation/README-pt_BR.md">Portuguese (pt-BR)</a>
@@ -32,15 +32,15 @@
     <h4 align="left">🔌 Main Technologies</h4>
     <table style="border-collapse: collapse;">
       <tr>
-        <td align="center" style="padding:12px;"><img src="../images/next.svg" height="30" /><br>Next</td>
+        <td align="center" style="padding:12px;"><img src="./images/next.svg" height="30" /><br>Next</td>
         <td align="center" style="padding:12px;"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" /><br>React
         </td>
-        <td align="center" style="padding:12px;"><img src="../images/astro.svg" height="30" /><br>Astro</td>
+        <td align="center" style="padding:12px;"><img src="./images/astro.svg" height="30" /><br>Astro</td>
         <td align="center" style="padding:12px;"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" /><br>Node
         </td>
-        <td align="center" style="padding:12px;"><img src="../images/fastify.svg" height="30" /><br>Fastify</td>
+        <td align="center" style="padding:12px;"><img src="./images/fastify.svg" height="30" /><br>Fastify</td>
         <td align="center" style="padding:12px;"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             height="30" /><br>TS</td>
@@ -64,8 +64,8 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" /><br>Sass</td>
       </tr>
       <tr>
-        <td align="center" style="padding:12px;"><img src="../images/shadcnui.svg" height="30" /><br>shadcn</td>
-        <td align="center" style="padding:12px;"><img src="../images/radix-ui.svg" height="30" /><br>Radix</td>
+        <td align="center" style="padding:12px;"><img src="./images/shadcnui.svg" height="30" /><br>shadcn</td>
+        <td align="center" style="padding:12px;"><img src="./images/radix-ui.svg" height="30" /><br>Radix</td>
         <td align="center" style="padding:12px;"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
             height="30" /><br>JS</td>
@@ -88,7 +88,7 @@
         <td align="center" style="padding:12px;"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" /><br>Oracle
         </td>
-        <td align="center" style="padding:12px;"><img src="../images/prisma.svg" height="30" /><br>Prisma</td>
+        <td align="center" style="padding:12px;"><img src="./images/prisma.svg" height="30" /><br>Prisma</td>
       </tr>
     </table>
 
@@ -141,7 +141,7 @@
         <td align="center" style="padding:12px;"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
             height="30" /><br>Supabase</td>
-        <td align="center" style="padding:12px;"><img src="../images/lighthouse.svg" height="30" /><br>Lighthouse</td>
+        <td align="center" style="padding:12px;"><img src="./images/lighthouse.svg" height="30" /><br>Lighthouse</td>
       </tr>
     </table>
 </div>
@@ -166,7 +166,7 @@
             height="30" /><br>PostgreSQL</td>
       </tr>
       <tr>
-        <td align="center" style="padding:12px;"><img src="../images/ext.svg" height="30" /><br>ExtJS</td>
+        <td align="center" style="padding:12px;"><img src="./images/ext.svg" height="30" /><br>ExtJS</td>
         <td align="center" style="padding:12px;"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"
             height="30" /><br>Bitbucket</td>
