@@ -210,7 +210,7 @@
             <hr>
             <a href="https://github.com/SilasRodrigues19">
               <img
-                src="https://github-readme-stats.vercel.app/api?username=SilasRodrigues19&show_icons=true&theme=dracula&icon_color=ff79c6&include_all_commits=true&count_private=true"
+                src="https://github-stats-extended.vercel.app/api?username=SilasRodrigues19&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"
                 alt="Readme Stats" />
             </a>
           </details>
